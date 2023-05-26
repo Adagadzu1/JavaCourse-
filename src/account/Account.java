@@ -10,7 +10,7 @@ public class Account {
     JFrame mainFrame = new JFrame("Bank Application");
 
     JTextField passwordField = new JTextField("Enter your password:");
-    JButton passwordSubmit = new JButton("Enter");
+    JButton passwordSubmit = new JButton("Enter your password");
 
     JButton currentAccount = new JButton("Current");
     JButton savingsAccount = new JButton("Savings");
